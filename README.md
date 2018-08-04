@@ -23,3 +23,5 @@ The ESP8266 presents a simple web page via wifi that allow the light modes to be
 This skill generates the form extension to the web site call, that commands the mode of the light bar.
 
 My light bar is static on 192.168.1.19.
+
+While this repository does not conatain the light bar sketch it does show a working example of writing form data to a web page.  I will endevour to add the sketch as another repository in due course.
